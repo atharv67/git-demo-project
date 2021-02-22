@@ -38,4 +38,4 @@ stack.display()
 v=stack.peek()
 print(v)
 stack.display()
-
+print("Done")
